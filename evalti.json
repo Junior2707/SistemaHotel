@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"evalti"},
+{"type":"table","name":"roles","database":"evalti","data":
+[
+{"rol_id":"1","nombre":"Administrador"},
+{"rol_id":"2","nombre":"GERENTE"}
+]
+}
+,{"type":"table","name":"usuarios","database":"evalti","data":
+[
+{"usuario_id":"1","nombre":"Junior","apellido":"Florian","telefono":"12345","direccion":"Zona 21","correo_electronico":"jnfg5310","fecha_nacimiento":"2000-03-09","rol_id":"1","activo":"1","contraseña":"1234"},
+{"usuario_id":"2","nombre":"Juan","apellido":"Gabriel","telefono":"1234567","direccion":"zona 21","correo_electronico":"jaunga","fecha_nacimiento":"2000-01-01","rol_id":"2","activo":"1","contraseña":"1234"},
+{"usuario_id":"3","nombre":"Marco","apellido":"Antonio","telefono":"1234","direccion":"mexico","correo_electronico":"buki","fecha_nacimiento":"2000-01-01","rol_id":"2","activo":"1","contraseña":"1234"},
+{"usuario_id":"4","nombre":"Karla","apellido":"Vanessa","telefono":"123","direccion":"zona 21","correo_electronico":"vane","fecha_nacimiento":"2000-01-01","rol_id":"1","activo":"1","contraseña":"1234"},
+{"usuario_id":"5","nombre":"Zus","apellido":"bo","telefono":"123","direccion":"123","correo_electronico":"123","fecha_nacimiento":"2000-01-01","rol_id":"1","activo":"0","contraseña":"123"},
+{"usuario_id":"6","nombre":"Izi","apellido":"Em","telefono":"123","direccion":"123","correo_electronico":"IZ","fecha_nacimiento":"1990-01-02","rol_id":"2","activo":"1","contraseña":"123"}
+]
+}
+]
